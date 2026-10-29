@@ -1,1 +1,1 @@
-# Cycole-POS
+# Cycole
